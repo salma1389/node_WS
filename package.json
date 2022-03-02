@@ -1,0 +1,15 @@
+{
+  "name": "server-with-node",
+  "version": "1.0.0",
+  "description": "first build of a web server using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "salma1389"
+  },
+  "author": "salma",
+  "license": "ISC"
+}
